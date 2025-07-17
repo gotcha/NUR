@@ -558,9 +558,9 @@
             "url": "https://github.com/CyberLeagueAustria/nur-packages"
         },
         "dagger": {
-            "rev": "7765e3fc447077d6ad200df1cd40ec171f16af91",
+            "rev": "cd09b778d319f69715251f1e613503f5b78f4cac",
             "sha256": "0mpq9asmiqrxwdvbfsvx4qmh4h97fn8lh6w3z04gj2hr5maahd5m",
-            "url": "https://github.com/dagger/nix"
+            "url": "https://github.com/gotcha/dagger-nix"
         },
         "dan4ik605743": {
             "rev": "aac67954bbeacce64d84ddf800e05bcb467c11da",
